@@ -59,7 +59,5 @@
 
 <img width="700" src="https://streak-stats.demolab.com?user=srikrishp&theme=github-dark-blue&hide_border=true" />
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=srikrishp&theme=github-dark&hide_border=true"/>
-
 </div>
 
