@@ -44,22 +44,8 @@
 
 ### 🛠️ Tech Stack
 
-**💻 Programming Languages**
-
-Python • Java • SQL • JavaScript • TypeScript • HTML5 • CSS3
-
-**🧩 Core Concepts**
-
-Object-Oriented Programming (OOP) • Data Structures & Algorithms • DBMS • System Design
-
-**🤖 Artificial Intelligence & Machine Learning**
-
-Scikit-learn • TensorFlow • Keras • Pandas • NumPy • Classification • Regression • Feature Engineering • Neural Networks • CNNs • RNNs • NLP • Generative AI
-
-**🌐 Web Development**
-
-React.js • Node.js • REST APIs
-
-**🗄️ Databases**
-
-MySQL • MongoDB
+- **Programming Languages:** Python, Java, SQL, JavaScript, TypeScript, HTML5, CSS3
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS, System Design
+- **Artificial Intelligence & Machine Learning:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP, CNNs, RNNs, Classification, Regression, Feature Engineering, Generative AI
+- **Web Development:** React.js, Node.js, REST APIs
+- **Databases:** MySQL, MongoDB
