@@ -42,7 +42,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Programming:** Python, Java, SQL, JavaScript
+- **Programming:** Python, Java, SQL, JavaScript, Spring Boot
 - **AI/ML:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP
 - **Web:** React.js, Node.js, REST APIs
 - **Databases:** MySQL, MongoDB
