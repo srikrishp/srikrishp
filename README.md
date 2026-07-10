@@ -1,5 +1,3 @@
-ce the links with your own.
-
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
