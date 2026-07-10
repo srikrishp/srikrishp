@@ -30,7 +30,7 @@
 
 ---
 
-###🚀 About Me
+## 🚀 About Me
 
 * 🎓 B.Tech in Artificial Intelligence & Machine Learning @ Shri Vishnu Engineering College for Women (2023–2027)
 * 🎓 B.S. in Data Science & Applications @ IIT Madras
