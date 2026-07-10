@@ -63,3 +63,7 @@
 
 </div>
 
+---
+### ⚡ Fun Fact
+
+- ☕ I enjoy turning coffee into code and ideas into real-world applications.
