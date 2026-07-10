@@ -33,7 +33,7 @@
 
 * 🎓 B.Tech in Artificial Intelligence & Machine Learning @ Shri Vishnu Engineering College for Women (2023–2027)
 * 🎓 B.S. in Data Science & Applications @ IIT Madras
-* 💼 Interned at **Programmers.io (IBM i)**, **NirveonX**, and **SmartInternz**
+* 💼 Interned at **Programmers.io (IBM i)**, **NirveonX**
 * 💻 Interested in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Data Science**
 * 🌱 Currently learning **System Design**, **Deep Learning**, **Large Language Models (LLMs)**, and **Cloud Computing**
 * 🎯 Aspiring **Software Engineer** passionate about building scalable, AI-driven applications.
