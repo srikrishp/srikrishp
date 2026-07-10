@@ -39,13 +39,17 @@
 * 🌱 Currently learning **System Design**, **Deep Learning**, **Large Language Models (LLMs)**, and **Cloud Computing**
 * 🎯 Aspiring **Software Engineer** passionate about building scalable, AI-driven applications.
 
+----
+
+### 🛠️ Tech Stack
+
+- **Programming:** Python, Java, SQL, JavaScript
+- **AI/ML:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP
+- **Web:** React.js, Node.js, REST APIs
+- **Databases:** MySQL, MongoDB
+- **Core:** DSA, OOP, DBMS, System Design, Generative AI
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages:** Python, Java, SQL, JavaScript, TypeScript, HTML5, CSS3
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS, System Design
-- **Artificial Intelligence & Machine Learning:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLP, CNNs, RNNs, Classification, Regression, Feature Engineering, Generative AI
-- **Web Development:** React.js, Node.js, REST APIs
-- **Databases:** MySQL, MongoDB
